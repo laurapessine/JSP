@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+.cabecalho {
+    background: #464d53;
+    height: 70px;
+    width: 600px;
+    margin: 0px auto;
+    font-family: Arial;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    line-height:70px;
+}
+
+.corpo {
+	background: #f2f2f2;
+    height: 200px;
+    width: 600px;
+    margin: 0px auto;
+    font-family: Arial;
+    font-size: 12px;   
+}
+
+.rodape {
+    background: #0066aa;
+    height: 40px;
+    width: 600px;
+    margin: 0px auto;
+    font-family: Arial;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    text-align: center;
+    line-height:40px;
+}
+
+table {
+	margin: 0px auto;  
+}
+
+tr {
+    height: 40px; 
+}
+
+td { 
+    padding: 5px;
+}
+
+.loginSucesso {
+    height: 40px; 
+    background-color: dodgerblue;
+    font-family: Arial;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    line-height:40px;
+}
+.loginFalha {
+	height: 40px; 
+	background-color: lightcoral;
+    font-family: Arial;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    line-height:40px;
+}
+
+.centralizar {
+    text-align: center;
+}

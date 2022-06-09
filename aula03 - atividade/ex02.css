@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body {
+	background-color: #E9E9E9;
+	font-family: Arial;
+}
+
+caption {
+	font-family: Arial;
+	color: #0080FF;
+	font-weight: bold;
+	/* para ficar mais parecido com a imagem do slide */
+	text-align: left;
+	padding-bottom: 10px;
+}
+
+thead {
+	background-color: steelblue;
+	color: white;
+}
+
+tbody {
+	background-color: #006699;
+	color: #FFF;
+}
+
+tfoot {
+	background-color: seagreen;
+	color: white;
+}
+
+table {
+	/* para ficar mais parecido com a imagem do slide */
+    border-collapse: collapse;
+}
+
+td, th {
+	/* para ficar mais parecido com a imagem do slide */
+	border: solid black 1px;
+}

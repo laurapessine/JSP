@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+	font-family: Consolas;
+}
+
+table {
+	border: solid mediumorchid 2px;
+	border-radius: 10px;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+caption, th {
+	color: mediumorchid;
+}
+
+caption {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+th {
+	text-align: left;
+}
+
+td {
+	color: black;
+}

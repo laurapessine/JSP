@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+	background-color: #E9E9E9;
+	font-family: Arial;
+}
+
+h1 {
+	background-color: steelblue;
+	color: white;
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 24px;
+	text-align: center;
+}
+
+strong {
+	color: darkgoldenrod;
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 16px;
+}

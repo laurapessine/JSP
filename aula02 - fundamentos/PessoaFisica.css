@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.titulos {
+	background-color: darkgray;
+	color: white;
+	text-align: center;
+}
+
+#destaque {
+	font-weight: bolder;
+	color: blue;
+}
